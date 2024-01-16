@@ -1,0 +1,7 @@
+venv/
+tests.py
+tests2.py
+.idea/
+work_with_vk_pkg/config.py
+__pycache__/
+works_for_res
